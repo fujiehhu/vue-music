@@ -1,6 +1,8 @@
 # music
 
-> 一个基于 Vue.js 的网页播放器，使用的本地的music-json文件，所以功能比较有限，只是自己练手的一个，暂时作为第一个版本吧，之后会把界面改一下，同时可以听更多的音乐。
+> 一个基于 Vue.js 的网页播放器，使用的本地的music-json文件，所以功能比较有限，只是自己练手的一个，暂时作为第一个版本吧，之后会改一下，同时可以听更多的音乐。
+
+![image-20200512151122304](C:\Users\fujie\AppData\Roaming\Typora\typora-user-images\image-20200512151122304.png)
 
 ## Build Setup
 
