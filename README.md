@@ -1,6 +1,6 @@
 # music
 
-> A Vue.js project
+> 一个基于 Vue.js 的网页播放器，使用的本地的music-json文件，所以功能比较有限，暂时作为第一个版本吧，之后会把界面改一下，同时可以听更多的音乐。
 
 ## Build Setup
 
